@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_clear_text"   translatable="false">C   </string>
+    <string name="button_square_text"  translatable="false">x^2 </string>
+    <string name="button_root_text"    translatable="false">sqrt</string>
+    <string name="button_divide_text"  translatable="false">/   </string>
+
+    <string name="button_7_text"       translatable="false">7   </string>
+    <string name="button_8_text"       translatable="false">8   </string>
+    <string name="button_9_text"       translatable="false">9   </string>
+    <string name="button_multiply"     translatable="false">*   </string>
+
+    <string name="button_4_text"       translatable="false">4   </string>
+    <string name="button_5_text"       translatable="false">5   </string>
+    <string name="button_6_text"       translatable="false">6   </string>
+    <string name="button_minus_text"   translatable="false">-   </string>
+
+    <string name="button_1_text"       translatable="false">1   </string>
+    <string name="button_2_text"       translatable="false">2   </string>
+    <string name="button_3_text"       translatable="false">3   </string>
+    <string name="button_plus_text"    translatable="false">+   </string>
+
+    <string name="button_parenth_text" translatable="false">( ) </string>
+    <string name="button_0_text"       translatable="false">0   </string>
+    <string name="button_comma_text"   translatable="false">,   </string>
+    <string name="button_equals_text"  translatable="false">=   </string>
+</resources>
